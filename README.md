@@ -70,6 +70,7 @@
 ## Imagens :camera:
 
 
+## Considerações :congratulations:
 - Projeto desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:
 
  - <i class="fa fa-github" aria-hidden="true"></i> [Rafael Sanzio - GitHub](https://github.com/rafaelsanzio "Rafael Sanzio")

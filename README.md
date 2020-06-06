@@ -4,30 +4,30 @@
 </h1>
 
 
-### Projeto :earth_americas:
+## Projeto :earth_americas:
 
 - Aplicativo Ecoleta :recycle: desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat") com intuito de informar pontos de coleta de resíduos específicos
 
 
-### Tecnologias :computer:
+## Tecnologias :computer:
 
-- #### Backend
+- ### Backend
 	- [NodeJS](https://nodejs.org/en/ "NodeJS")
 	- [Insomnia](https://insomnia.rest/ "Insomnia") (Caso queira testar a aplicação Backend)  [![Insomnia](https://camo.githubusercontent.com/a47cc6a6b74e0edbba2a73d2f727eaf4ccd1d855/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f72756e2e737667 "Insomnia")](https://camo.githubusercontent.com/a47cc6a6b74e0edbba2a73d2f727eaf4ccd1d855/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f72756e2e737667 "Insomnia")
 
-- #### Frontend
+- ### Frontend
 	- [React](https://pt-br.reactjs.org/ "React") 
 	- [React Native](https://reactnative.dev/ "React Native")
 	- [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 	- [Expo](https://expo.io/ "Expo")
 
 
-### Starting 
+## Starting 
 
 - Passo 1: executar a instalação do [NodeJS](https://nodejs.org/en/ "NodeJS")
 - Passo 2: git clone do projeto [Repositório Ecoleta](https://github.com/rafaelsanzio/Ecoleta.git "repositório ecoleta")
 
-	 #### Instalação do Backend 
+	 ### Instalação do Backend 
 	 
 		# Navegando até a pasta do backend 
 		$ cd ecoleta/server 
@@ -44,9 +44,10 @@
 		# Starting o backend da aplicação
 		$ npm run dev
 
-	#### Instalação do Frontend
+	### Instalação do Frontend
 
     - <b>Web</b> :page_facing_up:
+		    
 		    # Navegando até a pasta web
 		    $ cd ecoleta/web
 
@@ -56,6 +57,7 @@
 		    # Starting o frontend da aplicação
 		    $ npm start
     - <b>Mobile</b>  :iphone:
+		    
 		    # Navegando até a pasta web
 		    $ cd ecoleta/mobile
 
@@ -68,7 +70,7 @@
 		    # Starting o frontend mobile da aplicação (Basta ter o aplicativo do Expo instalado no seu celular e escanear o QRCode)
 		    $ npm start || expo start
 
-### Imagens :camera:
+## Imagens :camera:
 
 
 - Projeto desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:

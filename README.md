@@ -67,10 +67,10 @@
 		    $ npm start || expo start
 
 ## Imagens :camera:
-<div class="box" style="display: inline-block;">
+<div class="box" style="width: 150px; display: inline-block;">
     <img alt="Mobile Layout Tela Home" src="https://user-images.githubusercontent.com/18368947/83951222-50609b00-a806-11ea-92db-0799f1ebe0e4.PNG" />
 </div>
-<div class="box" style="display: inline-block;">
+<div class="box" style="width: 150px; display: inline-block;">
     <img alt="Mobile Layout Tela Map" src="https://user-images.githubusercontent.com/18368947/83951219-4dfe4100-a806-11ea-81a4-6df4331ad80f.PNG" />
 </div>
 

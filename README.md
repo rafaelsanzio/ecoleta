@@ -8,7 +8,6 @@
 
 - Aplicativo Ecoleta :recycle: desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat") com intuito de informar pontos de coleta de resíduos específicos
 
-[========]
 
 ### Tecnologias :computer:
 
@@ -21,9 +20,6 @@
 	- [React Native](https://reactnative.dev/ "React Native")
 	- [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 	- [Expo](https://expo.io/ "Expo")
-
-
-[========]
 
 
 ### Starting 

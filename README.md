@@ -4,13 +4,13 @@
 </h1>
 
 
-### Projeto :tw-1f30e:
+### Projeto :earth_americas:
 
-- Aplicativo Ecoleta :tw-267b: desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat") com intuito de informar pontos de coleta de resíduos específicos
+- Aplicativo Ecoleta :recycle: desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat") com intuito de informar pontos de coleta de resíduos específicos
 
 [========]
 
-### Tecnologias  :fa-keyboard-o:
+### Tecnologias :computer:
 
 - #### Backend
 	- [NodeJS](https://nodejs.org/en/ "NodeJS")
@@ -26,7 +26,7 @@
 [========]
 
 
-### Starting :tw-2705:
+### Starting 
 
 - Passo 1: executar a instalação do [NodeJS](https://nodejs.org/en/ "NodeJS")
 - Passo 2: git clone do projeto [Repositório Ecoleta](https://github.com/rafaelsanzio/Ecoleta.git "repositório ecoleta")
@@ -50,7 +50,7 @@
 
 	#### Instalação do Frontend
 
-    - <b>Web</b> :tw-1f4c4: 
+    - <b>Web</b> :page_facing_up:
 		    # Navegando até a pasta web
 		    $ cd ecoleta/web
 
@@ -59,7 +59,7 @@
     
 		    # Starting o frontend da aplicação
 		    $ npm start
-    - <b>Mobile</b>  :tw-1f4f2:
+    - <b>Mobile</b>  :iphone:
 		    # Navegando até a pasta web
 		    $ cd ecoleta/mobile
 
@@ -72,10 +72,10 @@
 		    # Starting o frontend mobile da aplicação (Basta ter o aplicativo do Expo instalado no seu celular e escanear o QRCode)
 		    $ npm start || expo start
 
-### Imagens :tw-1f4f7:
+### Imagens :camera:
 
 
 - Projeto desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:
 
- - :fa-github-square: [Rafael Sanzio - GitHub](https://github.com/rafaelsanzio "Rafael Sanzio")
- - :fa-linkedin-square: [Rafael Sanzio - LinkedIn](https://www.linkedin.com/in/rafael-sanzio-012778143/ "Rafael Sanzio")
+ - <i class="fa fa-github" aria-hidden="true"></i> [Rafael Sanzio - GitHub](https://github.com/rafaelsanzio "Rafael Sanzio")
+ - <i class="fa fa-linkedin" aria-hidden="true"></i> [Rafael Sanzio - LinkedIn](https://www.linkedin.com/in/rafael-sanzio-012778143/ "Rafael Sanzio")

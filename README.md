@@ -68,9 +68,7 @@
 
 ## Imagens :camera:
 
-<div style="width:100%">
-<img alt="Mobile Layout" src="https://user-images.githubusercontent.com/18368947/83951793-86a01980-a80a-11ea-9511-6d5393bfbdb0.jpg" /></div>
-</div>
+...
 
 ## Considerações :congratulations:
 - Projeto desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:

@@ -72,5 +72,5 @@
 ## Considerações :congratulations:
 - Projeto desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:
 
- - <i class="fa fa-github" aria-hidden="true"></i> [Rafael Sanzio - GitHub](https://github.com/rafaelsanzio "Rafael Sanzio")
- - <i class="fa fa-linkedin" aria-hidden="true"></i> [Rafael Sanzio - LinkedIn](https://www.linkedin.com/in/rafael-sanzio-012778143/ "Rafael Sanzio")
+ - <i class="fa fa-github" aria-hidden="true">a</i> [Rafael Sanzio - GitHub](https://github.com/rafaelsanzio "Rafael Sanzio")
+ - <i class="fa fa-linkedin" aria-hidden="true"> a</i> [Rafael Sanzio - LinkedIn](https://www.linkedin.com/in/rafael-sanzio-012778143/ "Rafael Sanzio")

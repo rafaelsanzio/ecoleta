@@ -67,11 +67,9 @@
 		    $ npm start || expo start
 
 ## Imagens :camera:
-<div style="float:left; width:50%">
 
-<img alt="Mobile Layout Tela Home" src="https://user-images.githubusercontent.com/18368947/83951222-50609b00-a806-11ea-92db-0799f1ebe0e4.PNG" /></div>
-<div style="float:left; width:50%">
-<img alt="Mobile Layout Tela Map" src="https://user-images.githubusercontent.com/18368947/83951219-4dfe4100-a806-11ea-81a4-6df4331ad80f.PNG" />
+<div style="width:100%">
+<img alt="Mobile Layout" src="https://user-images.githubusercontent.com/18368947/83951793-86a01980-a80a-11ea-9511-6d5393bfbdb0.jpg" /></div>
 </div>
 
 ## Considerações :congratulations:

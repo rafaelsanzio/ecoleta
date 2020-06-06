@@ -1,8 +1,7 @@
 <h1 align="center">
     <img alt="Desafio conceitos nodeJS" src="https://user-images.githubusercontent.com/44928849/83915245-3f9e1f80-a749-11ea-90f9-c6bc22750d32.png" />
-
+	
 ### Projeto :earth_americas:
-
 - Aplicativo Ecoleta :recycle:  desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat") com intuito de informar pontos de coleta de resíduos específicos
 </h1>
 

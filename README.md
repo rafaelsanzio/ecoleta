@@ -1,18 +1,24 @@
+<h1 align="center">
+    <img alt="Desafio conceitos nodeJS" src="https://user-images.githubusercontent.com/44928849/83915245-3f9e1f80-a749-11ea-90f9-c6bc22750d32.png" />
+
+</h1>
+
+
 ### Projeto :tw-1f30e:
 
 - Aplicativo Ecoleta :tw-267b: desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat") com intuito de informar pontos de coleta de resíduos específicos
 
 [========]
 
-### Tecnologias :tw-1f4f1:
+### Tecnologias  :fa-keyboard-o:
 
 - #### Backend
 	- [NodeJS](https://nodejs.org/en/ "NodeJS")
+	- [Insomnia](https://insomnia.rest/ "Insomnia") (Caso queira testar a aplicação Backend)  [![Insomnia](https://camo.githubusercontent.com/a47cc6a6b74e0edbba2a73d2f727eaf4ccd1d855/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f72756e2e737667 "Insomnia")](https://camo.githubusercontent.com/a47cc6a6b74e0edbba2a73d2f727eaf4ccd1d855/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f72756e2e737667 "Insomnia")
 
 - #### Frontend
 	- [React](https://pt-br.reactjs.org/ "React") 
 	- [React Native](https://reactnative.dev/ "React Native")
-
 	- [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 	- [Expo](https://expo.io/ "Expo")
 
@@ -44,7 +50,7 @@
 
 	#### Instalação do Frontend
 
-    -  ##### Web
+    - <b>Web</b> :tw-1f4c4: 
 		    # Navegando até a pasta web
 		    $ cd ecoleta/web
 
@@ -53,7 +59,7 @@
     
 		    # Starting o frontend da aplicação
 		    $ npm start
-    - #### Mobile
+    - <b>Mobile</b>  :tw-1f4f2:
 		    # Navegando até a pasta web
 		    $ cd ecoleta/mobile
 
@@ -65,3 +71,11 @@
 
 		    # Starting o frontend mobile da aplicação (Basta ter o aplicativo do Expo instalado no seu celular e escanear o QRCode)
 		    $ npm start || expo start
+
+### Imagens :tw-1f4f7:
+
+
+- Projeto desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:
+
+ - :fa-github-square: [Rafael Sanzio - GitHub](https://github.com/rafaelsanzio "Rafael Sanzio")
+ - :fa-linkedin-square: [Rafael Sanzio - LinkedIn](https://www.linkedin.com/in/rafael-sanzio-012778143/ "Rafael Sanzio")

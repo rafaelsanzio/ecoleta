@@ -18,7 +18,7 @@
 	- [Expo](https://expo.io/ "Expo")
 
 
-## Starting 
+## Getting Started :white_check_mark:
 
 - Passo 1: executar a instalação do [NodeJS](https://nodejs.org/en/ "NodeJS")
 - Passo 2: git clone do projeto [Repositório Ecoleta](https://github.com/rafaelsanzio/Ecoleta.git "repositório ecoleta")

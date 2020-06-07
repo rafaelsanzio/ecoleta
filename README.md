@@ -67,8 +67,9 @@
 		    $ npm start || expo start
 
 ## Imagens :camera:
-
-...
+<h1 align="center">
+    <img alt="Desafio conceitos nodeJS" src="https://user-images.githubusercontent.com/18368947/83979614-14046c00-a8e6-11ea-9986-c6f93f79a84b.JPG" />
+</h1>
 
 ## Considerações :congratulations:
 - Projeto desenvolvido na Next Level Week #01 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:

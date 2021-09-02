@@ -11,9 +11,9 @@
     "@expo-google-fonts/roboto": "^0.1.0",
     "@expo-google-fonts/ubuntu": "^0.1.0",
     "@react-native-community/masked-view": "0.1.6",
-    "@react-navigation/native": "^5.5.0",
-    "@react-navigation/stack": "^5.4.1",
-    "axios": "^0.19.2",
+    "@react-navigation/native": "^5.9.8",
+    "@react-navigation/stack": "^5.14.9",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "expo-constants": "~9.0.0",
     "expo-font": "~8.1.0",
@@ -29,13 +29,13 @@
     "react-native-safe-area-context": "0.7.3",
     "react-native-screens": "~2.2.0",
     "react-native-svg": "^11.0.1",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "^0.17.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.6",
-    "@types/react": "~16.9.23",
+    "@babel/core": "^7.15.4",
+    "@types/react": "^16.9.56",
     "@types/react-native": "~0.61.17",
-    "babel-preset-expo": "~8.1.0",
+    "babel-preset-expo": "^8.1.0",
     "typescript": "~3.8.3"
   },
   "private": true
